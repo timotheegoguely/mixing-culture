@@ -1,3 +1,0 @@
-###3. Sélectionner, choisir
-
-coming soon…

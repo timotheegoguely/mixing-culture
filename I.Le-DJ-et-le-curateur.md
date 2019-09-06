@@ -93,22 +93,22 @@ Nouvelle ellipse, pour nous attarder à présent sur le cas de l’Armory Show q
 
 Penchons nous un instant sur le plan de l’exposition :
 
-A        American Sculpture and Decorative Art
-B        American Paintings and Sculpture
-C–F        American Paintings
-G        English, Irish and German Paintings and
-Drawings
-H, I        French Paintings and Sculpture
-J        French Paintings, Water Colors and Drawings
-K        French and American Water Colors, Drawings,
-etc.
-L        American Water Colors, Drawings, etc.
-M        American Paintings
-N        American Paintings and Sculpture
-O        French Paintings
-P        French, English, Dutch and American Paintings
-Q        French Paintings
-R        French, English and Swiss Paintings
+| Galerie  | Titre    |
+| -------- | -------- |
+| A        | American Sculpture and Decorative Art |
+| B        | American Paintings and Sculpture |
+| C–F      | American Paintings |
+| G        | English, Irish and German Paintings and Drawings |
+| H, I     | French Paintings and Sculpture |
+| J        | French Paintings, Water Colors and Drawings |
+| K        | French and American Water Colors, Drawings, etc. |
+| L        | American Water Colors, Drawings, etc. |
+| M        | American Paintings |
+| N        | American Paintings and Sculpture |
+| O        | French Paintings |
+| P        | French, English, Dutch and American Paintings |
+| Q        | French Paintings |
+| R        | French, English and Swiss Paintings |
 
 
 On y voit un espace légèrement plus long que large, divisé symétriquement en dix-huit galeries. Chacune de ces galeries correspond à un regroupement d’œuvres classées selon leur medium et leur zone géographique. Ces différentes galeries sont délimitées par des parois, et l’absence ponctuelle de ces dernières constitue des “portes” permettant la circulation d’une galerie à une autre : la galerie C n’est par exemple accessible qu’en venant de la B ou de la D. L’entrée se faisant forcément par la galerie A, il semblerait que le visiteur puisse à sa guise soit s’en tenir à une sorte de parcours officiel que semble induire l’organisation ordonnée des galeries (A, B, C, etc.), soit décider de suivre son propre parcours artistique à travers l’Europe et les États-Unis en accédant directement aux galeries N, P ou R.

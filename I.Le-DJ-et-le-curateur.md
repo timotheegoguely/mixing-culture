@@ -5,35 +5,24 @@
 Le terme DJ – ou parfois Deejay, ou encore “platiniste” comme le Journal Officiel a jugé bon de le recommander[^6] – désigne une personne qui sélectionne et diffuse de la musique enregistrée à destination d’un public[^7].
 Utilisée pour la première fois en 1935 par le commentateur de radio américain Walter Winchell à propos de Martin Block[^8], l’expression “disc jockey” est issue de la combinaison de disc, en référence au disque en tant que support d’enregistrement, et jockey, qui désigne en anglais un “machiniste”. En tant que verbe transitif, to jockey signifie “traiter ou manipuler (quelqu’un ou quelque chose) d’une manière habile”. Ainsi, au regard de son étymologie, un disc jockey désignerait donc une personne manipulant des disques avec plus ou moins d’habileté à l’aide de machines.
 
-
 Il est amusant de noter que le mot jockey désigne également le cavalier montant des chevaux de course, renvoyant à l’expression française “être à cheval”, à la fois dans le sens “à cheval entre deux choses”, de part et d’autre, et “à cheval sur quelque chose” (Be on one’s high horse en anglais) : être exigent, pointilleux.
 Cela nous amène à souligner deux aspects importants associés à la pratique du DJing, à savoir la notion d’entre deux, de lien, de transition, de passage entre deux éléments, et le fait que cette pratique implique souvent une certaine rigueur, notamment concernant le classement et l’archivage des différents matériaux sonores, qu’ils soient physiques ou numériques (voir II. 2. Organiser, classer).
-
 
 #### Curateur
 Très en vogue ces dernières années dans le domaine de l’art, le mot curateur n’est autre que la francisation de l’expression anglo-saxonne curator désignant le commissaire d’exposition, dont l’activité consiste à concevoir des expositions (artistiques, historiques, scientifiques, etc.). Mais d’où vient la prépondérance actuelle de ce terme ? Derrière le simple effet de mode se cache une réalité étymologique des plus éclairante. En effet, le terme curator vient du latin curare, “s’occuper, prendre soin de”.
 Mais selon Hans Ulrich Obrist – curateur, critique d’art et historien de l’art célèbre pour ses ouvrages de référence autour de la question du curating – ‹ le problème du mot “commissaire”, qui relève du vocabulaire policier, […] c’est l’idée d’un top-down master plan, qui ne laisse aucune possibilité pour l’auto-organisation. ›[^9] Le curator serait donc celui qui prend soin d’un héritage culturel et artistique, pour le compte d’une institution (galerie, musée, archives, etc.) ou de manière indépendante – nous reviendrons sur ce point plus tard – ce qui est tout de même plus poétique et proche de la réalité du métier que la notion d’autorité quasi conservatrice que dégage son équivalent français commissaire d’exposition.
 
-
 Aujourd’hui, l’emploi du terme “curateur” s’est considérablement élargit, embrassant à la fois le domaine de l’art et du web, où il est utilisé pour désigner les pratiques de curation de contenu (content curator) liées au développement des plates-formes de partage de contenu en ligne et des réseaux sociaux. Nous reviendrons sur ce point particulier dans la quatrième partie de ce chapitre.
-
-
-________________
-
-
 
 ### 2. Prémices
 #### Brève préhistoire du DJing
 
-
 > ‹ L’histoire du DJ commence avec celle de la radio. › 
 — Ulf Poschardt
-
 
 Ainsi commence la sous-partie ‹ Préhistoire › du livre d’Ulf Poschardt consacré à la culture DJ et dont je vais vous exposer ici un résumé dans le but de mettre en lumière le contexte de l’apparition de la figure du DJ et son évolution jusqu’aux années 1960 au travers de ses différents protagonistes. Libre au lecteur qui souhaiterait approfondir la question et obtenir plus de détails de s’en référer directement à l’ouvrage.[^10]
 
 Poschardt nous y décrit notamment comment Reginald A. Fessenden, ingénieur américain, devint en quelque sorte le premier DJ ‹ en diffusant à travers l’éther un enregistrement sur disque de Largo de Häendel ›, et ce en 1906, soit dix-huit ans après l’invention du disque par Émile Berliger et la découverte des ondes électromagnétiques par le physicien allemand Heinrish Hertz. ‹ S’il est possible de le considérer comme tel, c’est parce qu’il ne se contentait pas de passer des disques pour sa famille, ses amis ou des connaissances, mais il se servait d’un médium qui, s’il était encore loin de faire partie des massmedia, avait tout pour conquérir un public toujours plus large. […] Avant l’invention des clubs et des discothèques pendant la seconde guerre mondiale, la radio constituait le seul domaine d’activité des DJ. › (idem).
-
 
 À partir de cette date, la radiodiffusion de disques ne cessa de croître et de conquérir de nouveaux adeptes. Nous pouvons citer ici quelques pionniers qui jouèrent un rôle central dans la conquête de la musique sur les ondes radiophoniques :
 – Charles D. “Doc” Herold, qui dès janvier 1909, émettait depuis sa station de radio installée à San José un programme composé de discussions, d’informations et de diffusion de disques;
@@ -76,7 +65,6 @@ S’en suivit alors jusqu’au XVIIIe siècle l’âge d’or des cabinets de cu
 Frontispice de Musei Wormiani Historia montrant
 l’intérieur du cabinet de curiosités de Ole Worm, 1655.
 
-
 D’abord privés et principalement fréquentés par des savants et des princes, les cabinets de curiosités s’ouvrirent progressivement au public à partir de 1671 ; le Cabinet d’Amerbach de Bâle faisant alors figure de pionnier en la matière. Les objets présentés dans ces cabinets, parfois inventoriés sous forme de catalogues illustrés à destination des savants européens, pouvaient être répartis en quatre grandes catégories[^14] :
 — artificialia : objets créés ou modifiés par l’Homme (antiquités, œuvres d'art) ;
 — naturalia : créatures et objets naturels (avec un intérêt particulier pour les monstres) ;
@@ -93,22 +81,22 @@ Nouvelle ellipse, pour nous attarder à présent sur le cas de l’Armory Show q
 
 Penchons nous un instant sur le plan de l’exposition :
 
-| Galerie  | Titre    |
-| -------- | -------- |
-| A        | American Sculpture and Decorative Art |
-| B        | American Paintings and Sculpture |
-| C–F      | American Paintings |
+| Galerie  | Titre                                            |
+| -------- | ------------------------------------------------ |
+| A        | American Sculpture and Decorative Art            |
+| B        | American Paintings and Sculpture                 |
+| C–F      | American Paintings                               |
 | G        | English, Irish and German Paintings and Drawings |
-| H, I     | French Paintings and Sculpture |
-| J        | French Paintings, Water Colors and Drawings |
+| H, I     | French Paintings and Sculpture                   |
+| J        | French Paintings, Water Colors and Drawings      |
 | K        | French and American Water Colors, Drawings, etc. |
-| L        | American Water Colors, Drawings, etc. |
-| M        | American Paintings |
-| N        | American Paintings and Sculpture |
-| O        | French Paintings |
-| P        | French, English, Dutch and American Paintings |
-| Q        | French Paintings |
-| R        | French, English and Swiss Paintings |
+| L        | American Water Colors, Drawings, etc.            |
+| M        | American Paintings                               |
+| N        | American Paintings and Sculpture                 |
+| O        | French Paintings                                 |
+| P        | French, English, Dutch and American Paintings    |
+| Q        | French Paintings                                 |
+| R        | French, English and Swiss Paintings              |
 
 
 On y voit un espace légèrement plus long que large, divisé symétriquement en dix-huit galeries. Chacune de ces galeries correspond à un regroupement d’œuvres classées selon leur medium et leur zone géographique. Ces différentes galeries sont délimitées par des parois, et l’absence ponctuelle de ces dernières constitue des “portes” permettant la circulation d’une galerie à une autre : la galerie C n’est par exemple accessible qu’en venant de la B ou de la D. L’entrée se faisant forcément par la galerie A, il semblerait que le visiteur puisse à sa guise soit s’en tenir à une sorte de parcours officiel que semble induire l’organisation ordonnée des galeries (A, B, C, etc.), soit décider de suivre son propre parcours artistique à travers l’Europe et les États-Unis en accédant directement aux galeries N, P ou R.
@@ -120,31 +108,22 @@ L’étude du plan de cette exposition révèle d’une certaine manière l’ap
 
 Pour son Exhibition of New Theater Technique, Frederick Kiesler inventa une nouvelle méthode de monstration à la fois mobile, interchangeable et flexible, et constituée de modules en forme de L et de T. Le dispositif d’exposition était pensé en tant que système, pouvant s’adapter à toute sorte de demande, indépendamment de son lieu d’accueil. Kiesler basait son travail sur l’interactivité entre l’observateur, l’art et le contexte spatial, afin de créer une continuité spatiale interrelationnelle entre les œuvres exposées.
 
-
 Le Provinzial-Museum d’Hanovre en Allemagne (qui devint par la suite le Landesmuseum) poussa encore plus loin la réflexion autour de la conception et de la perception de l’espace sous la direction d’Alexander Dorner entre 1923 et 1936. Selon lui, ‹ les musées devaient être des Kraftwerke, des centrales dynamiques capables de changements spontanés. ›[^19] Au sein du Provinzial-Museum, Dorner souhaitait ‹ montrer le développement de l’art comme une chaîne de “chambres atmosphériques” [Atmosphere Rooms]. Il adopta un principe non seulement chronologique, mais aussi évolutionniste, comme fondement de la narration de l’exposition du musée. Chaque époque, période ou style serait confiné dans ses propres pièces spécialement colorées et conçues à cet effet, présentant non seulement des artefacts, mais plongeant le visiteur dans une expérience visuelle totale. En marchant d’une salle à une autre, en suivant une chronologie progressive, le visiteur serait en mesure de voir et d’expérimenter toute l’histoire de l’art comme une progression de styles depuis le début de la civilisation jusqu’à nos jours. La salle la plus célèbre est devenue celle consacrée à l’art abstrait conçue par l’artiste et designer constructiviste El Lissitzky. Suite à la conception par ce dernier d’une salle spéciale pour l’art abstrait pour l’Internationale Kunstausstellung [Exposition Internationale d’Art] de 1926, Dorner pensa à lui demander de faire quelque chose de semblable, mais cette fois en tant qu’installation permanente au musée d’Hanovre. Le résultat de cette idée fut l’Abstract Cabinet (Kabinett Abstrakten), inauguré en 1928. ›[^20] Avec ce projet plus idéologique que fonctionnel, Lissitzky souhaitait faciliter l’exposition de nombreuses œuvres dans un espace restreint. Il imagina alors un espace modulaire au sein duquel le visiteur serait véritablement impliqué corporellement.
-
 
 D’autres importantes expositions marquèrent ensuite les années 30 et 40. Je pense ici notamment à la célèbre  International Surrealist Exhibition qui se tint à Londres en 1936, ou encore à l’exposition de Frederick Kiesler Art of this Century,[^21] organisée à New York 1942. S’il y aurait beaucoup à dire à leur sujet, je préfère, afin d’éviter d’être submerger par trop d’exemples historiques, passer directement aux années 50 et concentrer mon analyse sur la documenta 1 qui eut lieu en 1955.
 
-
 [images]
 documenta 1, Cassel, 1955
-
 
 Créée par le peintre et professeur d’art Arnold Bode (1900–1977), cette première édition de la documenta – désormais célèbre exposition d’art moderne et contemporain se tenant tous les cinq ans à Kassel en Allemagne (la prochaine et quatorzième édition aura lieu en 2017) – avait pour but de permettre au public allemand de se réconcilier avec l’art moderne international après les années de dictature nazie.[^22]
 Avec la documenta 1, Arnold Bode pensa l’exposition en tant que medium à part entière. Rien d’étonnant à cela puisqu’il en était simultanément l’organisateur et le scénographe, le choix des œuvres appartenant davantage à son associé Werner Haftmann, historien de l’art moderne. Il conçu ainsi une mise en scène assez innovante pour l’époque, constituée de panneaux légers en plastique noir et blanc venant habiller ponctuellement les murs nus encore brutes du Friericianum Museum récemment rénové, jouant notamment avec le rapport entre les œuvres et le fond devant lequel elles étaient exposées (voir images).
 Les risques ainsi pris concernant la possible incompréhension du dispositif auprès du public permit d’établir de nouvelles relations entre les œuvres, dans ce que Roger M. Buergel (directeur artistique de la documenta 12, organisateur d’exposition et auteur) appelle avec un regard contemporain, une ‹ éthique et une esthétique de la coexistence ›.[^23] Coexistence harmonieuse entre le classicisme de l’architecture du bâtiment et le dépouillement de son intérieur, entre l’espace, les œuvres et l’audience. Malgré une approche historique comme point de départ, les choix de mise en scène permettent de ré-ouvrir les œuvres à la sensibilité stimulée des visiteurs, d’établir entre les deux une ‹ collaboration sensorielle qui [les] conduit sur eux-mêmes et les relie à une réalité qu’ils sont incapables de saisir. Une réalité dans laquelle il n’y a pas de frontières ou points fixes de référence, sans début ni fin, une réalité où, pour le dire simplement, les relations sujet-objet sont soumises à examen. ›[^24]
 
-
 Au regard de ce tour d’horizon accéléré des débuts de l’histoire de l’exposition artistique, nous voyons déjà émerger différentes pratiques singulières, rattachées aux idéologies et visions de l’art de leur organisateur respectif. Comme le souligne Jérôme Glicenstein dans son article « Qu’est-ce que le “style” d’un commissaire d’exposition ? », ces différents ‹ styles › d’exposition peuvent être observés en fonction du domaine d’activité dont est issue leur organisateur.
 Ainsi, avant les années 1960, la plupart des commissaires possédaient un background de conservateur et/ou historien de l’art, ‹ s’intéressant généralement davantage à la qualité du choix de ce qui est présenté et à la rédaction de textes scientifiques d’accompagnement qu’à la scénographie ou à la médiation non verbale ›,[^25] et dont les genres favoris étaient la monographie, la rétrospective, l’exposition consacrée à un certain contexte historique, ou encore l’exposition transhistorique.
 Nous avons vu également qu’un style d’exposition plus scénographiques avait vu le jour à partir des années 1920, avec par exemple les dispositifs muséographiques novateurs pensés par Kiesler et El Lissitzky. Ce type de commissaires issus du champs du design et/ou de l’architecture ‹ considère [l’exposition] comme prioritairement dépendante d’une expérience visuelle et spatiale ›,[^26] et sont donc parfois moins exigeants ‹ en terme de médiation et d’exactitude historique. Il s’agit surtout d’un jeu avec la perception de l’espace, ›[^27] où le visiteur est pleinement invité à prendre part au dispositif.
 
-
 Poursuivons à présent notre périple dans le temps en nous attardant sur les années 1960, décennie qui marqua un tournant décisif dans l'émancipation du DJ et du curateur.
-
-___
-
 
 ### 3. Approches
 #### 1960s : redéfinitions des pratiques
@@ -177,9 +156,7 @@ Ce passage historique s’effectua en 1969, lorsque Szeeman déclara son indépe
 
 En créant, suite à cette exposition, l’Agence pour le travail intellectuel à la demande (Agentur für geistige Gastarbeit) – structure sans véritable existence juridique qui restera le symbole de sa carrière – Szeeman invente en quelque sorte le statut de curateur-critique freelance. L’Agence ‹ englobe toutes [ses] activités ainsi que ses outils et son lieu de travail. Mais surtout elle accompagne ce choix définitif de ne plus travailler à la direction d’un lieu. Désormais Szeeman travaille dans et pour son Agence en proposant des projets aux institutions, ses clients. ›[^40] Cette structure sans précédent, de par sa légèreté et son indépendance, propose une alternative ‹ aux lourdeurs organisationnelles des musées ›,[^41] et permettra à Szeeman d’être plus flexible, plus réactif et plus efficace dans son travail, mais surtout d’être plus proche des artistes.
 
-
 Si Harald Szeeman fut le premier à se proclamer curateur indépendant, toute une génération de curateurs expérimentèrent à la même époque de nouvelles approches formelles et conceptuelles au travers de leurs expositions respectives : Germano Celant, Lucy R. Lippard, Seth Siegelaub, Wim Beeren, Jennifer Licht, Kynaston McShine (détails des expositions p. 16). En recontextualisant des scènes contemporaines divergentes au sein d’expositions collectives internationales, ces différentes manifestations permirent à la fois aux artistes exposés et à leurs curateurs d’acquérir une importante notoriété à l’échelle planétaire. Dans son ouvrage The Culture of Curating and the Curating of Culture, Paul O’Neill résume en ces mots l’approche curatoriale alors dominante à la fin des années 1960 :
-
 
 ‹ La production curatoriale consistait alors à regrouper des œuvres et des artistes dont les préoccupations semblaient apparentées, conduisant ainsi au traitement de la forme de l’exposition en tant que medium à part entière. En d’autres termes, l’exposition devint clairement identifiée à son concepteur, ou au style de la signature de son curateur-producteur et par sa capacité à contextualiser un ensemble d’œuvres au sein d’une même entité. Dans la majorité des cas, la plupart des œuvres étaient créées par et pour l’exposition, avec d’importantes conséquences pour le statu à la fois des œuvres et des expositions. Comme l’écrit Irene Calderoni, « Cela s’est traduit par l'émergence d’une prise de conscience de la centralité de la présentation de l’œuvre, ainsi que l’idée que l’œuvre d’art opère en fonction de, et est limitée à, ce lieu et ce moment. »[^42] Autrement dit, les artistes et les curateurs étaient sciemment impliqués dans un processus parallèle de conception et d’organisation dans une optique d’accrochage futur, avec l’éventuelle exposition comme résultat de ce travail […] ›[^43]
 
@@ -188,7 +165,6 @@ Dans une interview avec Paul O’Neill datant de 2005, Lawrence Weiner souligne 
 
 #### 1970s : partenariat
 C’est ainsi que durant les années 1970 émergea ce que Paul Ardenne nomme le commissaire partenaire, représenté notamment par Rudi Fuchs, Eddy de Wilde, Jan Hoet ou encore Jean-Louis Froment : ‹ souvent directeur d’un musée ou d’une structure d’exposition influente, celui-ci soutient avec énergie la création vivante. […] La théorisation n’est pas [son] fort. Lui importe en premier lieu une relation d’exception, solidaire et fraternelle, avec l’artiste.›
-
 
 Mais revenons un moment à Harald Szeeman pour évoquer l’autre grande exposition majeure de sa carrière : la documenta de 1972. Avec cette cinquième édition intitulée Questioning Reality, Pictorial Worlds Today, Szeeman ‹ voulait retracer une trajectoire de la mimésis ›[^45] en se basant sur ‹ l’idée des trois réalités de l’image, formulée par Bazon Brock, depuis le réalisme jusqu’à l’art conceptuel, en passant par le kitsch, la publicité, l’imagerie religieuse, l’art des fous. ›[^46] Le visiteur passait ainsi d’un genre à un autre, d’images artistiques à des images considérées a priori comme non artistiques, dans un va-et-vient permanent entre le réalité de l’image et l’image de la réalité. ‹ Le résultat était un équilibre entre œuvres statiques et œuvres en mouvement, entre immenses installations et petites œuvres, plus délicates. ›[^47]
 L’exposition fut cependant fortement contestée notamment par la presse allemande et par certains artistes. Daniel Buren affirma même à l’époque, à propos du pouvoir attribué aux organisateurs d’expositions, que ‹ les curateurs devenaient des super-artistes qui utilisaient les œuvres comme autant de coups de pinceau dans un immense tableau ›.[^48] ‹ Ce que je fais, depuis 1972, c’est plutôt un travail atmosphérique ›, se défendra Szeeman dans une interview publiée dans le magazine artpress en novembre 1984. ‹ Je veux toujours tout mettre ; je suis donc amené à faire entrer beaucoup de réflexion dans l’exposition et bien sûr cette réflexion s’y perd. Mais je crois que l’expérience que l’on a d’une image pendant des années, et les nouvelles couches de signification que l’on y découvre en travaillant avec elle, devraient finalement se manifester dans l’accrochage, pas dans la didactique qui accompagne l’exposition. Au fond, c’est cela l’aventure. › 
@@ -255,7 +231,7 @@ Le tableau suivant résume les principales analogies que nous pouvons établir s
 
 | Musique électronique | Art contemporain      |
 | -------------------- | --------------------- |
-| DJ | Curateur        |
+| DJ                   | Curateur              |
 | DJ-producteur        | Curateur-artiste      |
 | Producteur-DJ        | Artiste-curateur      |
 | Producteur           | Artiste               |
@@ -265,7 +241,6 @@ Le tableau suivant résume les principales analogies que nous pouvons établir s
 | Club / Radio         | Musée / Institution   |
 
 L’évolution parallèle de ces deux figures, devenues de nos jours des incontournables du paysage culturel contemporain, trouve aujourd’hui une nouvelle forme de manifestation au travers de ce nous appellerons la “curated way of life”. Tout le monde se veut aujourd’hui le DJ et le curateur de sa propre vie. Encouragées par les services proposées par les plates-formes de partages de contenu en ligne, de nouvelles pratiques et de nouveaux comportements apparaissent, non plus seulement chez le professionnel, mais chez monsieur et madame-tout-le-monde.
-___
 
 ### 4. Curated way of life
 
@@ -393,5 +368,3 @@ Nous allons à présent nous intéresser à comment cette culture de la curation
 [^59]: Nicolas Bourriaud, Postproduction, Paris, Les presses du réel, 2003, p. 31
 [^60]: Lev Manovich, Le langage des nouveaux médias, Paris, Les presses du réel, 2010 [2002]
 [^61]: Lev Manovich, « Échantillonner, mixer l’esthétique de la sélection dans les anciens et les nouveaux médias », Monter/Sampler: l’échantillonnage généralisé, Yann Beauvaix et Jean-Michel Bouhours (sous la dir. de), Paris, Éditions du Centre Pompidou, 2000, p. 58
-
-###### tags: `Mixing Culture`
